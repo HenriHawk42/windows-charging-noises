@@ -1,6 +1,6 @@
 # windows-charging-noises
 
-- I stole the power-detecting script from [https://www.autohotkey.com/board/topic/7022-acbattery-status/](this thread on the autohotkey forums.)
+- I stole the power-detecting script from (https://www.autohotkey.com/board/topic/7022-acbattery-status/)[this thread on the autohotkey forums.]
 - I added some code which it plays a noise if the charger is unplugged or plugged in.
 
 # Issues
