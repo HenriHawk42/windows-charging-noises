@@ -1,2 +1,7 @@
 # windows-charging-noises
-I thought it would be nice if windows had charging noises, so I made an AHK script.
+
+- I stole the power-detecting script from [https://www.autohotkey.com/board/topic/7022-acbattery-status/](this thread on the autohotkey forums.)
+- I added some code which it plays a noise if the charger is unplugged or plugged in.
+
+# Issues
+- It somehow takes up on average 4% of my CPU, and I think that's a bit excessive for what should be a system process. Probably has to do with the fact that it's on a loop.
